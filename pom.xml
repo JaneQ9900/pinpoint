@@ -189,7 +189,7 @@
 
         <zookeeper.version>3.4.14</zookeeper.version>
         <curator.version>4.2.0</curator.version>
-        <curator.framework.version>4.2.1</curator.framework.version>
+        <curator.framework.version>4.3.0</curator.framework.version>
         <curator.test.version>2.13.0</curator.test.version>
 
         <embed.mongo>3.4.6</embed.mongo>
