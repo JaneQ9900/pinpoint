@@ -158,7 +158,7 @@
         <spring.security.version>5.5.8</spring.security.version>
         <spring.boot.version>2.5.12</spring.boot.version>
 
-        <slf4j.version>1.7.30</slf4j.version>
+        <slf4j.version>1.7.36</slf4j.version>
         <log4j2.version>2.17.2</log4j2.version>
         <!-- for plugin & hbase client -->
         <log4j1.version>1.2.17</log4j1.version>
