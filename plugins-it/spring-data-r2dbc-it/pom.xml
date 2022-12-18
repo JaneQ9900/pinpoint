@@ -83,7 +83,7 @@
         <dependency>
             <groupId>org.postgresql</groupId>
             <artifactId>r2dbc-postgresql</artifactId>
-            <version>0.9.1.RELEASE</version>
+            <version>1.0.0.RELEASE</version>
         </dependency>
 
         <dependency>
