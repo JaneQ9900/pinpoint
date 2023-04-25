@@ -143,7 +143,7 @@
 
         <mysql-connector-java.verison>8.0.28</mysql-connector-java.verison>
 
-        <fastxml.jackson.version>2.13.4</fastxml.jackson.version>
+        <fastxml.jackson.version>2.15.0</fastxml.jackson.version>
         <fastxml.jackson.databind.version>2.13.4.2</fastxml.jackson.databind.version>
         <snakeyaml.version>1.33</snakeyaml.version>
 
