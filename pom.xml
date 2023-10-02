@@ -187,7 +187,7 @@
         <jjwt.version>0.9.1</jjwt.version>
         <jaxb.version>2.3.3</jaxb.version>
 
-        <zookeeper.version>3.4.14</zookeeper.version>
+        <zookeeper.version>3.5.5</zookeeper.version>
         <curator.version>4.2.0</curator.version>
         <curator.framework.version>4.2.1</curator.framework.version>
         <curator.test.version>2.13.0</curator.test.version>
