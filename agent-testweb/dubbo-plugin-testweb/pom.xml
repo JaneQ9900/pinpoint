@@ -69,7 +69,7 @@
             <groupId>org.apache.dubbo</groupId>
             <artifactId>dubbo-dependencies-zookeeper</artifactId>
             <type>pom</type>
-            <version>2.7.18</version>
+            <version>3.0.0</version>
         </dependency>
     </dependencies>
 
