@@ -21,13 +21,13 @@
         <dependency>
             <groupId>com.typesafe.akka</groupId>
             <artifactId>akka-http-core_2.12</artifactId>
-            <version>10.1.0-RC1</version>
+            <version>10.5.3</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>com.typesafe.akka</groupId>
             <artifactId>akka-http_2.12</artifactId>
-            <version>10.1.0-RC1</version>
+            <version>10.5.3</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
