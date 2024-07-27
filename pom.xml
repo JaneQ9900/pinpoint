@@ -143,8 +143,8 @@
 
         <mysql-connector-java.verison>8.0.28</mysql-connector-java.verison>
 
-        <fastxml.jackson.version>2.13.4</fastxml.jackson.version>
-        <fastxml.jackson.databind.version>2.13.4.2</fastxml.jackson.databind.version>
+        <fastxml.jackson.version>2.15.0</fastxml.jackson.version>
+        <fastxml.jackson.databind.version>2.15.0</fastxml.jackson.databind.version>
         <snakeyaml.version>1.33</snakeyaml.version>
 
         <httpcomponents.version>4.5.13</httpcomponents.version>
@@ -156,7 +156,7 @@
         <spring.batch.version>4.3.3</spring.batch.version>
 
         <spring.security.version>5.5.8</spring.security.version>
-        <spring.boot.version>2.5.12</spring.boot.version>
+        <spring.boot.version>3.1.0</spring.boot.version>
 
         <slf4j.version>1.7.30</slf4j.version>
         <log4j2.version>2.17.2</log4j2.version>
