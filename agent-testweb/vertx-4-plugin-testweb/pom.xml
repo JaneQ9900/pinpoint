@@ -32,7 +32,7 @@
         <jdk.version>1.8</jdk.version>
         <jdk.home>${env.JAVA_8_HOME}</jdk.home>
 
-        <vertx.version>4.2.2</vertx.version>
+        <vertx.version>4.4.9</vertx.version>
 
         <spring-boot-build-skip>true</spring-boot-build-skip>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -87,8 +87,7 @@
                         </goals>
                         <configuration>
                             <transformers>
-                                <transformer
-                                        implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
+                                <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
                                     <manifestEntries>
                                         <Main-Class>${launcher.class}</Main-Class>
                                         <Main-Verticle>${main.verticle}</Main-Verticle>
