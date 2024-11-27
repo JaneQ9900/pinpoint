@@ -153,10 +153,10 @@
         <spring4.version>4.3.30.RELEASE</spring4.version>
         <spring5.version>5.3.20</spring5.version>
         <spring.version>${spring5.version}</spring.version>
-        <spring.batch.version>4.3.3</spring.batch.version>
+        <spring.batch.version>5.2.0</spring.batch.version>
 
         <spring.security.version>5.5.8</spring.security.version>
-        <spring.boot.version>2.5.12</spring.boot.version>
+        <spring.boot.version>3.0.0</spring.boot.version>
 
         <slf4j.version>1.7.30</slf4j.version>
         <log4j2.version>2.17.2</log4j2.version>
