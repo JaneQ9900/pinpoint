@@ -31,7 +31,7 @@
 
     <properties>
         <jedis.version>2.4.2</jedis.version>
-        <lettuce.version>6.1.5.RELEASE</lettuce.version>
+        <lettuce.version>6.5.1.RELEASE</lettuce.version>
         <cassandra.driver.version>2.1.7.1</cassandra.driver.version>
 
         <mongo.driver.3.version>3.12.11</mongo.driver.3.version>
