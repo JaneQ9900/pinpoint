@@ -42,7 +42,7 @@
         <dependency>
             <groupId>com.caucho</groupId>
             <artifactId>resin</artifactId>
-            <version>3.0.9</version>
+            <version>4.0.52</version>
             <scope>provided</scope>
         </dependency>
 
