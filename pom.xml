@@ -170,7 +170,7 @@
 
 
         <asm.version>9.2</asm.version>
-        <thrift.version>0.16.0</thrift.version>
+        <thrift.version>0.17.0</thrift.version>
         <caffeine.version>2.9.2</caffeine.version>
 
         <netty3.version>3.10.6.Final</netty3.version>
